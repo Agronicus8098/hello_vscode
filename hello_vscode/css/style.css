@@ -1,0 +1,12 @@
+body {
+  font-size: 30px;
+}
+
+body div {
+  font-size: 30px;
+}
+
+body div span {
+  color: blue;
+  text-transform: capitalize;
+}
